@@ -30,7 +30,7 @@ Yakoub Bazi, lulua Hussin, Mohamad Al rahhal, Mansour Zuair
 
 ## Architecture
 <p align="center">
-  <img width="600" src="architecture.png" alt="RAG-VQAMed Architectural Overview">
+  <img width="600" src="Archietcture.png" alt="RAG-VQAMed Architectural Overview">
 </p>
 
 ---
