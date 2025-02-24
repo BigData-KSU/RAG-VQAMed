@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="Main.png" alt="RAG-VQAMed Architectural Overview">
+  <img width="400" src="Main.png" alt="RAG-VQAMed Architectural Overview">
 </p>
 
 
