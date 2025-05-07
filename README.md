@@ -3,7 +3,7 @@
 </p>
 
 
-# RAG-VQAMed: Stylistic Multi-Image Context Fusion for Retrieval-Augmented Medical Visual Question Answering 
+#RAG-VQAMed: Context-Aware Retrieval-Augmented Generation Framework for Visual Question Answering in Medical Imagery
 
 Yakoub Bazi, lulua Hussin, Mohamad Al rahhal, Mansour Zuair
 
@@ -48,7 +48,7 @@ If you find RS-LLaVa useful in your research or application, please consider cit
 ```bibtex
 @Article{rs16091477,
 AUTHOR = {Yakoub Bazi, lulua Hussin, Mohamad Al rahhal, Mansour Zuair },
-TITLE = {RAG-VQAMed: Stylistic Multi-Image Context Fusion for Retrieval-Augmented Medical Visual Question Answering },
+TITLE = {RAG-VQAMed: Context-Aware Retrieval-Augmented Generation Framework for Visual Question Answering in Medical Imagery },
 Coming soon
 }
 
